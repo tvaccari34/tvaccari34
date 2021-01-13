@@ -16,3 +16,4 @@
 ## Onde me encontrar
 
 [![Outlook Badge](https://img.shields.io/badge/-tiago.vaccari@outlook.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:tiago.vaccari@outlook.com)](mailto:tiago.vaccari@outlook.com)  [![Linkedin Badge](https://img.shields.io/badge/-TiagoVaccari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.comin/in/tiago-vaccari-0b159a54)](https://www.linkedin.com/in/tiago-vaccari-0b159a54)
+

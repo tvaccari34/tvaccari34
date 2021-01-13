@@ -9,18 +9,6 @@
 
 > * 📫 you can reach me out [**here**](https://www.tiagovaccari.com)
 
-## Stack
-
-
->![reactjs](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-> ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-> ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-> ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) 
-> ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-> ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-> ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
 ## Stats
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvaccari34&exclude_repo=portfolio-tcb,tvaccari34.github.io&show_icons=true&hide=html,teX&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tvaccari34&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
